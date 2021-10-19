@@ -20,6 +20,12 @@ form{
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+.title{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 /**
 * ! style rules for form icons
 **/
