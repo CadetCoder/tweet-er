@@ -1,6 +1,12 @@
 /**
 * ! changing default styles of browser 
 **/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 
 /**
 * ! style rules for form section 
