@@ -58,6 +58,12 @@ form div i{
 .success-icon, .failure-icon{
   right: 0;
 }
+.success-icon{
+  color: green;
+}
+.failure-icon{
+  color: red;
+}
 
 /**
 * ! Media Queries are here!
