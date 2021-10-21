@@ -42,9 +42,18 @@ form div input{
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+form div{
+  position: relative;
+  margin-bottom: 15px;
+}
+
 /**
 * ! style rules for form icons
 **/
+
+form div i{
+  position: absolute;
+}
 
 /**
 * ! Media Queries are here!
