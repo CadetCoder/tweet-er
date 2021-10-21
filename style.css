@@ -27,6 +27,10 @@ form{
   margin-bottom: 20px;
 }
 
+label{
+  display: block;
+}
+
 form div input{
   width: 100%;
   height: 40px;
