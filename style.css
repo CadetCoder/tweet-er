@@ -55,6 +55,9 @@ form div i{
   position: absolute;
   padding: 10px;
 }
+.success-icon, .failure-icon{
+  right: 0;
+}
 
 /**
 * ! Media Queries are here!
