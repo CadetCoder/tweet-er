@@ -68,6 +68,9 @@ form div i {
   color: red;
 }
 
+.error {
+  font-size: 14.5px;
+}
 /**
 * ! Media Queries are here!
 **/
