@@ -55,8 +55,10 @@ form div i{
   position: absolute;
   padding: 10px;
 }
-.success-icon, .failure-icon{
+.success-icon,
+.failure-icon{
   right: 0;
+  opacity: 0;
 }
 .success-icon{
   color: green;
