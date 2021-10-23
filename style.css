@@ -74,5 +74,13 @@ form div i {
 }
 
 /**
+* ! Style rules for button
+**/
+
+button {
+  width: 100%;
+}
+
+/**
 * ! Media Queries are here!
 **/
