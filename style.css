@@ -80,7 +80,8 @@ form div i {
 button {
   width: 100%;
   height: 45px;
-  background-color: #f2796e;
+  background-color: #BDBDBD;
+  border: 2px solid #BDBDBD;
 }
 
 /**
