@@ -83,6 +83,7 @@ button {
   height: 45px;
   background-color: #BDBDBD;
   border: 2px solid #BDBDBD;
+  border-radius: 8px;
 }
 
 /**
