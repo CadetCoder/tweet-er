@@ -1,4 +1,4 @@
-var id = (id) => getElementById(id);
+var id = (id) => document.getElementById(id);
 
 let username = id("username"),
     email = id("email"),
