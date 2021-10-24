@@ -1,6 +1,6 @@
 var id = (id) => document.getElementById(id);
 
-var classes => document.getElementsByClassName(classes)
+var classes = (classes)=> document.getElementsByClassName(classes);
 
 let username = id("username"),
     email = id("email"),
