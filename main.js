@@ -1,3 +1,5 @@
-let username = document.getElementById("username");
-let email = document.getElementById("email");
-let password = document.getElementById("password")
+var id = (id) => getElementById(id);
+
+let username = id("username"),
+    email = id("email"),
+    password = id("password")
