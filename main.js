@@ -12,4 +12,8 @@ let username = id("username"),
 
     form.addEventListener("submit", (e)=>{
       e.preventDefault();
+
+      if(username.value === ''){
+        errorMsg[0].innerHTML = 'Username cannot be blank'
+      }
     })
