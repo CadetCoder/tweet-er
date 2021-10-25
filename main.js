@@ -10,3 +10,6 @@ let username = id("username"),
     successIcon = classes("success-icon"),
     failureIcon = classes("failure-icon");
 
+    form.addEventListener("submit", (e)=>{
+      e.preventDefault();
+    })
