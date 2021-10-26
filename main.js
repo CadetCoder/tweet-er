@@ -21,10 +21,16 @@ let username = id("username"),
     let engine = (id, serial, message) => {
       if (id.value.trim() === ""){
         errorMsg[serial].innerHTML = message;
+        id.style.border = "2px solid red";
+    
+    // icons
         failureIcon[serial].style.opacity = "1";
         successIcon[serial].style.opacity = "0";
       } else {
         errorMsg[serial].innerHTML = "";
+        id.style.border = "2px solid green";
+    
+    // icons
         failureIcon[serial].style.opacity = "0";
         successIcon[serial].style.opacity = "1";
       }
