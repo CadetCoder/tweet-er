@@ -59,6 +59,11 @@ input:focus {
   text-align: center;
 }
 
+.span {
+  color: #4DB6AC;
+  cursor: pointer;
+}
+
 .btn {
   display: flex;
   flex-direction: row;
