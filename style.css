@@ -59,7 +59,7 @@ input:focus {
   text-align: center;
 }
 
-.span {
+span {
   color: #4DB6AC;
   cursor: pointer;
 }
