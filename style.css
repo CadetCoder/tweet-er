@@ -119,8 +119,9 @@ button:hover {
   gap: 15px;
   justify-content: center;
   align-items: center;
+  border: 2px solid #c4c4c4;
+  border-radius: 8px;
 
-}
 
 /**
 * ! Media Queries are here!
