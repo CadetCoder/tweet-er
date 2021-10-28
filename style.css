@@ -59,6 +59,10 @@ input:focus {
   text-align: center;
 }
 
+.question {
+  font-size: 15px;
+}
+
 span {
   color: #4DB6AC;
   cursor: pointer;
