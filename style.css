@@ -54,20 +54,6 @@ input:focus {
 /**
 * ! style rules for social section
 **/
-
-.or {
-  text-align: center;
-}
-
-.question {
-  font-size: 15px;
-}
-
-span {
-  color: #4DB6AC;
-  cursor: pointer;
-}
-
 .btn {
   display: flex;
   flex-direction: row;
@@ -88,9 +74,23 @@ span {
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
+
 .btn-2 {
   background-color: #4f70b5;
   color: white;
+}
+
+.or {
+  text-align: center;
+}
+
+.question {
+  font-size: 15px;
+}
+
+span {
+  color: #4DB6AC;
+  cursor: pointer;
 }
 
 /**
