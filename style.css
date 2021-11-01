@@ -34,6 +34,7 @@ body {
   background-image: url("./images/illustration.svg");
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center;
   height: 65%;
 }
 
