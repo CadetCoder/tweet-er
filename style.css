@@ -30,6 +30,13 @@ body {
   padding: 10px 20px;
 }
 
+.image {
+  background-image: url("./images/illustration.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 65%;
+}
+
 /**
 * ! style rules for form section 
 **/
