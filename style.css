@@ -38,6 +38,10 @@ body {
   height: 65%;
 }
 
+.text {
+  text-align: center;
+}
+
 /**
 * ! style rules for form section 
 **/
