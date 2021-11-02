@@ -196,4 +196,8 @@ button:hover {
   .btn {
     flex-direction: column;
   }
+
+  .image {
+    height: 70vh;
+  }
 }
