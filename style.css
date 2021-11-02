@@ -41,6 +41,7 @@ body {
 .text {
   text-align: center;
   color: #fff;
+  font-size: 18px;
 }
 
 /**
@@ -181,3 +182,18 @@ button:hover {
 /**
 * ! Media Queries are here!
 **/
+
+@media (max-width: 900px){
+  .container{
+    flex-direction: column;
+  }
+
+  form,
+  .content {
+    width: 100% !important;
+  }
+
+  .btn {
+    flex-direction: column;
+  }
+}
