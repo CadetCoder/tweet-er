@@ -201,3 +201,9 @@ button:hover {
     height: 70vh;
   }
 }
+
+@media (max-width: 425px) {
+  form {
+    padding: 20px;
+  }
+}
